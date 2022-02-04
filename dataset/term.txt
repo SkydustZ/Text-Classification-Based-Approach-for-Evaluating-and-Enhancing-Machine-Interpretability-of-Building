@@ -1,0 +1,200 @@
+综合生活污水 comprehensive sewage：居民生活和公共服务产生的污水。
+脱轨系数 coefficient of derailment：车辆运营时，作用于轮对中单侧车轮上的横向力和垂向力的比值。
+屈曲 buckling：结构、构件或板件达到受力临界状态时在其刚度较弱方向产生另一种较大变形的状态。
+加劲板件 stiffened elements：两纵边均与其他板件相连的板件。
+居住区(级)道路：一般用以划分小区的道路。在大城市中通常与城市支路同级。
+道口折算交通量 equivalent traffic volume of grade crossing：年均一昼夜通过道口的火车次数与通过道口的车辆、行人折合为标准车辆数的乘积。
+粉煤灰路堤 fly-ash embankment：全部或部分采用粉煤灰修筑的路堤。
+设计使用年限 design working/service life：在正常设计、正常施工、正常使用和正常养护条件下，桥涵结构或结构构件不需进行大修或更换，即可按其预定目的使用的年限。
+承力盘 bell bearing：在桩孔同一标高处，用三岔双缸双向液压挤扩装置在桩孔外侧沿径向水平挤扩，经过7次以上的转位挤扩，在桩孔周围土体中形成一近似双圆锥盘状的上下对称的扩大腔，此后盘腔与桩孔同时灌注混凝土形成的盘体，称为承力盘。承力盘可简称“盘”。
+延性抗震设计 ductility seismic design：允许桥梁结构发生塑性变形，不仅用构件的强度作为衡量结构性能的指标，同时要校核构件的延性能力是否满足要求。
+藏品保存场所 spaces for collection：藏品库区、展厅和藏品技术区等有藏品的建筑空间的总称。
+通风架空率 ventilation area ratio：架空层中，净高超过2．5m的可穿越式通风部分的建筑面积占建筑基底面积的比率(％)。
+滤毒通风 gas filtration ventilation：室外空气受毒剂等物污染，需经特殊处理时的通风。
+库房禁区 vault-passway：以库房为核心，出、入库和日常性票币、金银处理作业区等周界围墙以内的特定区域。
+消防洒水软管 flexible sprinkler hose fittings：连接洒水喷头与配水管道的挠性金属软管及洒水喷头调整固定装置。
+冻结强度 freezing strength：土与基础侧表面冻结在一起的剪切强度。
+好氧消化 aerobic digestion：有氧条件下污泥消化的过程。
+总凯氏氮 total Kjeldahl nitrogen(TKN)：有机氮和氨氮之和。
+弯道超高super elevation at curve：为平衡机动车在弯道上行驶所产生的离心力所设置的弯道横向坡度而形成的高差。
+面源污染 diffuse pollution：通过降雨和地表径流冲刷，将大气和地表中的污染物带入受纳水体，使受纳水体遭受污染的现象。
+光伏组件串 photovoltaic modules string：在光伏发电系统中，将若干个光伏组件串联后，形成具有一定直流电输出的电路单元。
+住宅用地(R01)：住宅建筑基底占地及其四周合理间距内的用地(含宅间绿地和宅间小路等)的总称。
+污水再生利用 wastewater reuse：污水回收、再生和利用的统称，包括污水净化再用、实现水循环的全过程。
+相位 phase：同时获得通行权的一个或多个交通流的信号显示状态。
+设计径流量 design rate of runoff：由设计降雨重现期和降雨历时的降雨引起的设计点径流量。
+腹板屈曲后强度 post-buckling strength of web plates：腹板屈曲后尚能继续保持承受荷载的能力。
+展厅净面积 net area of gallery：展厅的使用面积，包括展品、展具、展览设备及其安全保护范围的占地面积和观众使用的观展活动、通行面积。
+最大小时耗热量 maximum heat consumption per hour：按卫生器具给水额定流量和卫生器具同时给水百分数计算确定的耗热量。即与沐浴设备用水设计秒流量相对应的小时耗热量。
+设计基准期 Design reference period：在进行结构可靠性分析时，考虑持久设计状况下各项基本变量与时间关系所采用的基准时间参数。
+高管架 higher pipe support：最下层管道保温层外缘至地面净距为5．0m以上的管架。
+轻质路堤 lightweight embankment：采用粉煤灰、泡沫塑料等轻质材料修筑的路堤。
+跨越管架 cross-over pipe support：管道需要跨越铁路、道路时，管道升高支承在铁路、道路两侧的高管架上，形成П型管道的高管架。
+等值附盐密度 equivalent salt deposit density(ESDD)：溶解后具有与从给定绝缘子的绝缘体表面清洗的自然沉积物溶解后相同电导率的氯化钠总量除以表面积，简称等值盐密。
+口部建筑 gateway building：口部地面建筑物的简称。在防空地下室室外出入口通道出地面段上方建造的小型地面建筑物。
+口部 gateway：防空地下室的主体与地表面，或与其它地下建筑的连接部分。对于有防毒要求的防空地下室，其口部指最里面一道密闭门以外的部分，如扩散室、密闭通道、防毒通道、洗消间（简易洗消间）、除尘室、滤毒室和竖井、防护密闭门以外的通道等。
+主管 chord member：钢管结构构件中，在节点处连续贯通的管件，如桁架中的弦杆。
+层状构造 layered cryostructure：冻土内的冰呈层状分布的构造，
+季节融化层(季节活动层) seasonally thawed layer：每年寒季冻结、暖季融化，其年平均地温低于0℃的地表层，其下卧层为多年冻土层。
+融土 thawed soil(rock，ground)：冻土自融化开始到已有应力下达至固结稳定为止，这一过渡状态的土体。
+平面交叉 at-grade intersection：道路与道路，或道路与轨道交通线路在同一平面内的交叉。
+纵梁式管架 longitudinal beam pipe support：沿管道轴向，在管架柱之间设置纵梁，并在纵梁上或梁下根据管道允许的间距，设置一定数量的横梁以敷设管径较小的管道的结构。
+未预见用水量 unforeseen demand：给水系统设计中，对难于预测的各项因素而准备的水量。
+色品 chromaticity：用国际照明委员会(CIE)标准色度系统所表示的颜色性质，由色品坐标定义的色刺激性质。
+配水干管 feed mains：报警阀后向配水管供水的管道。
+限位装置 restrainer：为限制梁墩以及梁台间的相对位移而设计的构造装置。
+反应位移法Ⅱ seismic displacement method Ⅱ：适用于成层地层中地下结构的形状简单断面的反应位移法。
+死角 dead leg：在医药工艺用水系统中可能导致工艺用水污染的滞流区域／点。
+交通困难地区 difficult transport area：车辆、农业机械不能到达的地区。
+阈值增量 threshold increment：失能眩光的度量。表示为存在眩光源时，为了达到同样看清物体的目的，在物体及其背景之间的亮度对比所需要增加的百分比。
+压实度 degree of compaction：路基压实后的实测干密度与标准击实试验所得的最大干密度之比，以百分率表示。
+设计特征周期 design characteristic period of ground motion：抗震设计采用的地震影响系数曲线中，反映地震震级、震中距和场地类别等因素的下降段起点对应的周期值。
+环境管理体系 environment management system：企业管理体系的一部分，包括为制定、实施、实现、评审和保持环境方针所需的组织机构、策划活动、职责、惯例、程序、过程和资源。
+冲击波超压 positive pressure of shock wave：冲击波压缩区内超过周围大气压的压力值。
+鉴赏室 appreciation room：库前区内供专业人员鉴赏、研究藏品的房间。
+总磷 total phosphorus(TP)：水体中有机磷和无机磷的总和。
+设计路段(路段) design section(section)：在设计线(或区段)中，各个按规定的不同旅客列车设计行车速度确定与行车速度有关的建筑物和设备标准的线路段落。简称为路段。
+三击贯入度 the total penetration of three drives：指填充料夯实完毕后，以锤径为355mm，质量为3500kg的柱锤，落距为6．0m，连续三次锤击的累计下沉量。
+公共连接点 point of common coupling（PCC）：电网中一个以上用户的连接处。
+自然沉淀 plain sedimentation：不加注混凝剂的沉淀过程。
+极限状态 limit state：整体结构或结构的一部分超过某一特定状态就不能满足设计规定的某一功能要求时，此特定状态为该功能的极限状态。
+操作温度 operating temperature：在稳态操作条件下，一个系统内介质的温度。
+钢筋混凝土杆 reinforced concrete pole：普通混凝土杆、部分预应力混凝土杆及预应力混凝土杆的总称。
+污泥热干化 sludge heat drying：污泥脱水后，在外部加热的条件下，通过传热和传质过程，使污泥中水分随着相变化分离的过程。成为干化产品。
+水泥混凝土预制块路面 concrete block pavement：面层由水泥混凝土预制块铺砌成的路面。
+城市地下空间 urban underground space：城市地表以下为了满足人类社会生产、生活、交通、环保、能源、安全、防灾减灾等需求而进行开发、建设与利用的空间。本标准的地下空间是指地下公共服务空间，包括地下交通枢纽、地下车库、地下商场、地下旅馆、地下餐厅、地下娱乐场所、地下医院共7类地下空间。
+塑性耗能区 plastic energy dissipative zone：在强烈地震作用下，结构构件首先进入塑性变形并消耗能量的区域。
+弱硬化 weak hardening：状态为T6的铝合金材料为弱硬化合金。
+其他用地(E)：规划范围内除居住区用地以外的各种用地，应包括非直接为本区居民配建的道路用地、其他单位用地、保留的自然村或不可建设用地等。
+粉末活性炭吸附 powdered activated carbon adsorption：投加粉末活性炭，用以吸附溶解性物质和改善臭、味的净水工序。
+日变化系数 daily variation coefficient：最高日供水量与平均日供水量的比值。
+用水量 water consumption：用户所消耗的水量。
+斜管(板)沉淀池 inclined tube(plate) sedimentation tank：水池中加斜管(板)，使污水中的固体物高效沉降的沉淀池。
+暂存库 temporary storage room：库前区内为暂时存放尚未清理、消毒的藏品而专设的房间。
+作用准永久组合 quasi-permanent combination of actions：正常使用极限状态设计时，永久作用标准值与可变作用准永久值的组合。
+氧化沟 oxidation ditch：活性污泥法的一种形式，其构筑物呈封闭无终端渠形布置，降解去除污水中有机污染物和氮、磷等营养物。
+远控消防炮系统(简称远控炮系统) remote-controlled fire monitor extinguishing systems(abbreviation：remote-controlled monitor systems)：可远距离控制消防炮的固定消防炮灭火系统。
+多热源分别运行 independently operation of multi-heat sources：在采暖期或供冷期用阀门将供热系统分隔成多个单热源供热系统，由各个热源分别供热的运行方式。
+水泥粉煤灰碎石桩(CFG桩) cement fly-ash gravel pile：采用一定比例的水泥、粉煤灰、碎石以及石屑混合料，现场灌注而成的桩体。
+水环境敏感路段 sensitive section of water environment：路线穿越要求排放水质为不低于现行《地表水环境质量标准》（GB 3838）中Ⅳ类水质标准区域的路段，或穿越要求排放水质为不低于现行《海水水质标准》（GB 3097）中的第三类水质标准海域的路段。其中穿越要求水质不低于Ⅱ类区域或第一类海域的路段为水环境强敏感路段；要求水质不低于Ⅲ类区域或第二类海域的路段为水环境中敏感路段；要求水质不低于Ⅳ类区域或第三类海域的路段为水环境弱敏感路段。
+标准冻深 standard freezing depth：非冻胀黏性土，地表平坦、裸露、城市之外的空旷场地中，不少于10年实测最大冻深的平均值。
+封层 seal coat：在沥青面层或基层上铺筑的有一定厚度的沥青混合料薄层。
+地面合成场强 total field strength above ground：由导线所带电荷产生的静电场和由空间电荷产生的电场合成的地面场强。
+路侧安全净区 roadside clear zone：在城市道路机动车道两侧、相对平坦、无非机动车道、无人行道、无任何障碍物、可供失控车辆重新返回正常行驶路线的带状区域。
+水泥混凝土路面 cement concrete pavement：铺筑水泥混凝土面层的路面。
+酒店式办公楼 hotel-office building：提供酒店式服务和管理的办公楼。
+预处理 pre-treatment：在混凝、沉淀、过滤、消毒等工艺前所设置的处理工序。
+原水 raw water：进入医药工艺用水生产装置或设备有待进一步处理的水。
+地震作用 earthquake action：由地震动引起的结构动态作用，包括水平地震作用和竖向地震作用。
+施工组织设计 construction organization plan：以施工项目为对象进行编制，用以指导其建设全过程各项施工活动的技术、经济、组织、协调和控制的综合性文件。
+无粘结预应力筋 unbonded tendon：表面涂防腐油脂并包护套后，与周围混凝土不粘结，靠锚具传递压力给构件或结构的一种预应力筋。
+活性污泥法 activated sludge process，suspended growth process：污水生物处理的一种方法。该法是在人工条件下，对污水中的各类微生物群体进行连续混合和培养，形成悬浮状态的活性污泥。利用活性污泥的生物作用，以分解去除污水中的有机污染物，然后使污泥与水分离，大部分污泥回流到生物反应池，多余部分作为剩余污泥排出活性污泥系统。
+主要出入口 main entrance：战时空袭前、空袭后，人员或车辆进出较有保障，且使用较为方便的出入口。
+暗沟 blind drain：设在地面以下或路基内，引导水流排出路界范围的沟状结构物。无渗水和汇水功能。
+防落梁装置 unseating-prevention system：为防止桥梁墩梁间的相对位移超过限值而设计的构造装置。
+平入式出入口entrance/exit of straight-in：机动车库中由室外场地直接出入停车区域的部位。
+典型气象日 typical meteorological day：在典型气象年中所选取的代表季节气候特征的一日。以典型气象年最热月（或最冷月）中的温度、日较差、湿度、太阳辐射照度的日平均值与该月平均值最接近的一日，称为夏季（或冬季）典型气象日。
+双管热水供应系统 two-pipe system of hot water supply：冷水管和热水管分别直供沐浴设备的热水供应系统。
+连接器 coupler：连接预应力筋的装置。
+厂区绿地率 greening rate for plant：厂区用地范围内各类绿地计算面积的总和与厂区用地面积的比率。
+数字通道 digital path：数字通道是指由一个或多个数字段组成的某一固定速率接口间的链路。
+中温消化 mesophilic digestion：污泥温度在33℃～35℃时进行的消化过程。
+降雨历时转换系数 converting factor of rainfall duration：设计降雨历时的降雨强度与某一标准降雨历时的降雨强度的比值。
+快速路 expressway：在城市内修建的，中央分隔、全部控制出入、控制出入口间距及形式，具有单向双车道或以上的多车道，并设有配套的交通安全与管理设施的城市道路。
+污泥浓缩 sludge thickening：采用重力、气浮或机械的方法降低污泥含水率，减少污泥体积的方法。
+可变作用的伴随值 accompanying value of a variable action：在作用组合中，伴随主导作用的可变作用值。可以是组合值、频遇值或准永久值。
+自然博物馆 museum of nature history：以分类、生态和历史的观点了解自然和人类环境，展示其进化过程的科学与技术类博物馆。
+隔板絮凝池 spacer flocculating tank：水流以一定流速在隔板之间通过而完成絮凝过程的构筑物。
+非一致地震动输入 nonuniform ground motion input：特大跨径桥梁抗震分析中，尤其是时程分析中各个桥墩基础处的地震动输入有所不同，反映了地震动场地的空间变异性。
+弹性弯曲 elastic bending：管道在外力或自重作用下产生的弹性限度范围内的弯曲变形。
+几何参数标准值 Nominal value of geometrical parameter：设计结构或构件时采用的几何参数的基本代表值，其值可按设计文件规定值确定。
+能力保护设计方法 capacity protection design method：为保证在预期地震作用下，桥梁结构中的能力保护构件在弹性范围工作，其抗弯能力应高于塑性铰区抗弯能力的设计方法。
+地下娱乐场所 underground places of entertainment：在地下向公众开放、消费者休闲娱乐的场所，主要包括歌舞厅、影剧院、游艺厅、网吧、健身房等各类娱乐场所。
+区域电源 regional internal power source：能供给在供电半径范围内多个用电防空地下室的内部电源。
+并行管道 parallel pipelines：以一定间距相邻敷设的管道。
+施工荷载 Site load：按短暂状况设计时，施工阶段施加在结构或构件上的临时荷载，包括结构自重、附着在结构和构件上的模板、材料机具等荷载。
+输送干线 transmission mains：自热源至主要负荷区且长度超过2km无分支管的干线。
+路权 right of way：道路使用者根据交通法规的规定，一定空间和时间内在道路上进行交通活动的权利。
+住宅建筑净密度：住宅建筑基底总面积与住宅用地面积的比率(％)。
+深度处理 advanced treatment：常规处理后设置的处理。
+辅助车道 auxiliary lane：在互通式立体交叉分流段上游、合流段下游，为使匝道与主线车道数平衡且保持主线的基本车道数而在主线外侧增设的附加车道。
+供水量 supplying water：供水企业所输出的水量。
+运动场地 field of play：由看台或墙体、围挡围合的运动及辅助区域。
+消波设施 attenuating shock wave equipment：设在进风口、排风口、柴油机排烟口处用来削弱冲击波压力的防护设施。消波设施一般包括，冲击波到来时即能自动关闭的防爆波活门和利用空间扩散作用削弱冲击波压力的扩散室或扩散箱等。
+颗粒活性炭吸附池 granular activated carbon ad-sorption tank：池内介质为单一颗粒活性炭的吸附池。
+居住区用地(R)：住宅用地、公建用地、道路用地和公共绿地等四项用地的总称。
+厂区 plant area：由生产设施或装置、辅助生产设施、公用工程设施、仓储设施、运输设施、行政办公及生活服务设施等组成的区域。
+洞口 portal：地下道路洞身暗埋段的端部。
+附属保护防撞设施 collision protection facilities for subsidiary structure：在容易被撞击的主体结构前方，单独设置的保护主体结构的防撞设施。
+隔离墙 dividing wall：在软土地基中设置的对地基中渗流、竖向沉降或侧向挤压起隔离作用的连续墙体。
+冷却面积 cooling area：一次火灾中用固定消防炮冷却保护的计算面积。
+注入站 injection station：在管道中间某位置向管道中注入其他来源油品的站场。
+淤泥质土 muddy soil：在静水和缓慢流水环境中沉积、天然孔隙比大于或等于1. 0且小于1. 5、含有机质的细粒土。
+最终沉降 final settlement：在上部设计荷载作用下，地基从加载起始日至无限长时间内所发生的沉降。
+沉淀 sedimentation，settling：利用悬浮物和水的密度差，重力沉降作用去除水中悬浮物的过程。
+冲洗强度 wash rate：单位时间内单位滤料面积的冲洗水量，一般以 L/(m2·s) 为单位。
+断轨力 breaking force of continuously welded rail：因长钢轨折断，引起桥梁与长钢轨相对位移而产生的纵向力。
+并网点 point of coupling（POC）：对于有升压站的光伏发电站，指升压站高压侧母线或节点。对于无升压站的光伏发电站，指光伏发电站的输出汇总点。
+列车竖向动力 vertical dynamic force of train：列车运行时产生的竖向动力作用。
+紫外线剂量 ultraviolet dose：照射到生物体上的紫外线量(即紫外线生物验定剂量或紫外线有效剂量)，由生物验定测试得到。
+安全等级 safety classes：为使结构具有合理的安全性，根据工程结构破坏所产生后果的严重程度而划分的设计等级。
+展厅观众高峰限值 peak limiting value of attendance：在一定的展览方式条件下，展厅内达到高峰密度时的观众人数。简称高峰限值。
+长条块石 large rectangular stone：采用切割或劈裂方法从矿体中分离出的形状规整的长方体石料。
+泥炭 peat：喜水植物枯萎后，在缺氧条件下经缓慢分解而形成的泥沼覆盖层。常为内陆湖沼沉积，有机质含量大于或等于60％，大部分尚未完全分解，呈纤维状，孔隙比一般大于10。
+轻、中、重冰区 light／medium／heavy icing area：设计覆冰厚度为10mm及以下地区为轻冰区，设计覆冰厚度大于10mm小于20mm地区为中冰区，设计覆冰厚度为20mm及以上地区为重冰区。
+强支撑框架 frame braced with strong bracing system：在框架-支撑结构中，支撑结构(支撑桁架、剪力墙、筒体等)的抗侧移刚度较大，可将该框架视为无侧移的框架。
+空翻工艺 cutting process with turing manipulator travles overhead：用翻转吊具将坯体连同模具在空中翻转90°，由底板托着坯体落在切割机的切割小车上，再进行脱模、切割等后续工序的生产工艺。
+管件 pipe fittings：弯头、弯管、三通、异径接头和管封头等各种管道异形连接件的统称。
+峰瓦 watts peak：光伏组件或光伏方阵在标准测试条件下，最大功率点的输出功率的单位。
+道口平台 platform of grade crossing：道口两侧道路自最外侧钢轨至相邻竖曲线始点的水平路段。
+桩根 root of pile：底承力盘以下的桩身部分。
+绿化用地 green area：指公园用地内用以栽植乔木、灌木、草本植物的用地。
+好氧泥龄 oxic sludge age：活性污泥在好氧池中的平均停留时间。
+地震作用效应 seismic effect：由地震作用引起的桥梁结构内力与变形等作用效应的总称。
+出入口 entrance and exit：在地下道路主线上设置的供车辆驶出或驶入地下道路主线的单向交通路口，一般通过匝道与衔接道路连接。
+管道防腐 corrosion prevention of pipes：为减缓或防止管道在内外介质的化学、电化学作用下或由微生物的代谢活动而被侵蚀和变质的措施。
+半柱面照度 semicylindrical illuminance：光源在给定的空间一点上一个假想的很小的半个圆柱体的曲面上产生的照度。圆柱体轴线通常是竖直的，半圆柱体的朝向为半圆柱体平背面的内法线方向。其计算方法为落在半圆柱体曲面上的总光通量除以该曲面面积。
+住宅建筑套密度(毛)：每公顷居住区用地上拥有的住宅建筑套数(套／h㎡)。
+剪切层法 shear layer method：将土体简化为一系列由剪切弹簧和阻尼器相联的薄层体系，进行动力分析的方法。
+三岔双向挤扩灌注桩 cast-in-place piles with expanded branches and bells by 3-way extruding arms：三岔双向挤扩灌注桩是在预钻(冲)孔内，放入专用的三岔双缸双向液压挤扩装置，按承载力要求和地层土质条件在桩身适当部位，通过挤扩装置双向油缸的内外活塞杆作大小相等方向相反的竖向位移带动三对等长挤扩臂对土体进行水平向挤压，挤扩出互成120°夹角的3岔状或3n岔(n为同一水平面上的转位挤扩次数)状的上下对称的扩大形腔或经多次挤扩形成近似双圆锥盘状的上下对称的扩大腔，成腔后提出三岔双缸双向液压挤扩装置，放入钢筋笼，灌注混凝土，制成由桩身、承力岔、承力盘和桩根共同承载的钢筋混凝土灌注桩。
+群桩基础 foundation of pile-group：由两根及以上基桩组成的桩基础。
+正常使用极限状态 serviceability limit states：对应于结构或结构构件达到正常使用或耐久性能的某项规定限值的状态。
+卫生 hygienic：设备或管路系统的设计、材质和操作符合其清洁维护要求，由设备或管路系统生产出的工艺用水不会对人类和生物健康产生不利的影响。
+染毒区 airtightless space：防空地下室中能抵御预定的爆炸动荷载作用，但允许染毒的区域。
+容许拉应变 allowable tensile strain：根据累计标准轴载作用次数，利用修正后沥青混合料疲劳方程计算确定的沥青层层底临界位置的拉应变。
+保护角 shielding angle：通过地线的垂直平面与地线和被保护受雷击的外侧子导线的平面之间的夹角。
+容许剪应力 allowable shear stress：沥青混合料的抗剪强度与抗剪强度结构系数之比。
+数据监控中心 enterprise command center （ECC）：数据中心中用于对电源、空调、消防设备等辅助设备实施集中监测、集中操作和集中管理的场所。
+能力设计 capacity design：为确保延性抗震设计桥梁可能出现塑性铰的桥墩的非塑性铰区、基础和上部结构构件不发生塑性变形和剪切破坏，必须对上述部位、构件进行加强设计，以保证非塑性铰区的弹性能力高于塑性铰区。
+战时 wartime：战争时期的简称。国家或地区自开始转入战争状态直至战争结束的时期。
+抗剪强度结构系数 shear strength structural coefficient：考虑沥青混合料剪切疲劳破坏特性的安全系数。
+反滤层 filter layer：保证水流通过，并防止水流带走土中的细颗粒堵塞排水设施的过滤层。
+色品容差 chromaticity tolerance：表征一批光源中各光源与光源额定色品或平均色品的偏离，用颜色匹配标准偏差(SDCM)表示。
+预压期 preloading period：预压施加荷载所持续的时间。从完成全部预压荷载施加后开始计算。
+列车横向摇摆力 lateral sway force of train：列车运行时对钢轨产生的横向水平力。
+塑料填料 plastic media：用以提供微生物生长的载体，有硬性、软性和半软性填料。
+刚性基层 rigid base：用普通混凝土、碾压混凝土、贫混凝土、钢筋混凝土与连续配筋混凝土等材料铺筑的基层。
+融化指数thawing index：一年中高于0℃的气温与其相应持续时间乘积的代数和。
+防眩设施 anti-glare facilities：为夜间行车的驾驶人员免受对向来车前灯眩光干扰而设置的构造物。
+漏氯（氨）吸收装置 chlorine(ammonia)absorption system：将泄漏的氯（氨）气体吸收并加以中和达到排放要求的全套装置。
+封闭系统 closed system(freezing)：土在冻结过程中，没有外来水分进行补充的系统。
+质量管理体系 quality management system：企业管理体系的一部分，包括为制定、实施、实现、评审和保持质量方针所需的组织机构、策划活动、职责、惯例、程序、过程和资源。
+匝道 ramp：专门连接两条道路的一段专用道路，包括互通式立体交叉连接道路、快速路与辅路的连接道路、高架路或堑式路与地面道路连接的道路，一般为单向交通。
+计算长度 effective length：计算稳定性时所用的长度，其值等于构件在其有效约束点间的几何长度与计算长度系数的乘积。
+室外出入口 outside entrance：通道的出地面段（无防护顶盖段）位于防空地下室上部建筑投影范围以外的出入口。
+步行商业街 commercial pedestrian street：供人们进行购物、饮食、娱乐、休闲等活动而设置的步行街道。
+好氧区 oxic zone：生物反应池的充氧区。微生物在好氧区降解有机物和进行硝化反应。
+屈曲约束支撑 buckling-restrained brace：由核心钢支撑、外约束单元和两者之间的无粘结构造层组成不会发生屈曲的支撑。
+综合类博物馆 comprehensive museum：综合展示自然、历史、艺术方面藏品的博物馆，通常为地区性的地志博物馆。
+地温年变化深度(年零较差深度) depth of annual zero amplitude of ground temperature：地表以下，地温在一年内相对恒定的深度。
+沥青路面 asphalt pavement：铺筑沥青面层的路面
+湿球黑球温度 wet bulb globe temperature：综合评价接触热环境时人体热负荷大小的指标(℃)。
+带脚踏开关的双管淋浴热水供应系统 two-pipe system of hot bath water supply with foot-action cock：由两根冷、热水管分别接入淋浴器的冷热水手动阀门，冷热水分别经手动阀门流出混合后，经脚踏开关至淋浴喷头。冷热水阀门调好后，与单管系统一样，浴者使用中仅控制脚踏开关即可。该系统综合了单、双管两种系统的优点。
+连续配筋混凝土路面 continuously reinforced concrete pavement：面层内配置纵向连续钢筋和横向钢筋，横向不设缩缝的水泥混凝土路面。
+水平循环类停车设备horizontal circulating mechanical　parking system：使用水平循环机构使车位产生水平循环运动到达升降机或出入口而存取汽车的机械式停车设备。
+公共绿地(R04)：满足规定的日照要求、适合于安排游憩活动设施的、供居民共享的集中绿地，包括居住区公园、小游园和组团绿地及其他块状带状绿地等。
+附建式车库garage attached to building：与其他建筑物或构筑物结合建造，并共用或部分共用建筑主体结构与设备系统的车库。
+正则化长细比或正则化宽厚比 normalized slenderness ratio：参数，其值等于钢材受弯、受剪或受压屈服强度与相应的构件或板件抗弯、抗剪或抗承压弹性屈曲应力之商的平方根。
+旋流沉砂池 vortex-type grit chamber：靠进水形成旋流离心力分离砂粒的沉砂池。
+工业化住宅 industrialized housing：标准化设计的住宅，部件组合具有系统性，主要部件在工厂生产或预加工，在现场以装配化为主要方式建造的住宅产品。
+滤料有效粒径 (d10）effective size of filtering media：滤料经筛分后，小于总重量 10％的滤料颗粒粒径。
