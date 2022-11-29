@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+      direct     0.9474    0.9000    0.9231        20
+     general     0.8824    0.7895    0.8333        19
+    indirect     0.9474    0.9474    0.9474        19
+      method     0.8500    1.0000    0.9189        17
+      others     0.9412    0.9412    0.9412        17
+   reference     1.0000    1.0000    1.0000        19
+        term     1.0000    1.0000    1.0000        17
+
+    accuracy                         0.9375       128
+   macro avg     0.9383    0.9397    0.9377       128
+weighted avg     0.9388    0.9375    0.9368       128

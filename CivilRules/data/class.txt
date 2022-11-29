@@ -1,0 +1,7 @@
+direct
+general
+indirect
+method
+others
+reference
+term
