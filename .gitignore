@@ -6,3 +6,4 @@ CivilRules/saved_dict/*.ckpt
 .idea/**
 __pycache__/**
 *.pyc
+!pytorch_pretrained/**
