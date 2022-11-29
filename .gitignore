@@ -1,7 +1,10 @@
 # please download all models from the link in readme
 bert_pretrain/**
+!bert_pretrain/readme.txt
 bert_pretraindc/**
+!bert_pretraindc/readme.txt
 CivilRules/predict/**
+!CivilRules/predict/readme.txt
 CivilRules/saved_dict/*.ckpt
 .idea/**
 __pycache__/**
