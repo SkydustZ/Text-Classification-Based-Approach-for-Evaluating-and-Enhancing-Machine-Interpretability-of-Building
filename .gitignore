@@ -5,3 +5,4 @@ CivilRules/predict/**
 CivilRules/saved_dict/*.ckpt
 .idea/**
 __pycache__/**
+*.pyc
